@@ -2,7 +2,7 @@
 
 **History Lesson:** The Vigenere Cipher, based off of the Caesar Cipher, was first documented in the  mid 15th century by Leon Alberti. It was refered to as 'the indecipherable cipher' by the French and remained unbroken for around 400 years by Charles Babbage, the grandfather of the programmable computer.
 
-Implement a Vigenere Cipher using JavaScript. You should be able to encode and decode a word when given a keyword. [Read the Wikipedia description here](http://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher#Description
+**Real Lesson:** Implement a Vigenere Cipher using JavaScript. You should be able to encode and decode a word when given a keyword. [Read the Wikipedia description here](http://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher#Description
 )
 
 A quick rundown of the steps:
